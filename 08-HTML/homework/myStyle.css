@@ -1,0 +1,32 @@
+* {
+	text-align: center;
+}
+
+body {
+	background: rgba(255, 255, 255, 0.75) url("https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/asado-perfecto-1.jpg?v=1574172033");
+}
+
+h1 {
+	color: blue;
+}
+
+div {
+	margin: 0 auto;
+}
+
+img {
+	width: 400px;
+}
+
+#thirdDiv {
+	width: 500px;
+	height: 600px;
+	background: gray;
+	padding: 50px;
+	border: 2px solid cornflowerblue;
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
